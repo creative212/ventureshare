@@ -14,7 +14,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("https://bozoktraktor.com/sharedocument/bg.jpg");
+  background-image: url("https://bozoktraktor.com/sharedocument/images/bg.jpg");
 
   /* Full height */
   height: 100%; 
@@ -35,7 +35,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.bg11 {  background-image: url("https://bozoktraktor.com/sharedocument/bg.jpg");
+.bg11 {  background-image: url("https://bozoktraktor.com/sharedocument/images/bg.jpg");
 
   /* Full height */
   height: 100%; 
@@ -45,7 +45,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.bg12 {  background-image: url("https://bozoktraktor.com/sharedocument/bg.jpg");
+.bg12 {  background-image: url("https://bozoktraktor.com/sharedocument/images/bg.jpg");
 
   /* Full height */
   height: 100%; 
